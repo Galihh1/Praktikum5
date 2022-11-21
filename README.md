@@ -3,7 +3,7 @@
 # PENJELASAN PERULANGAN WHILE PADA PYTHON
 *Perulangan while pada python adalah proses pengulangan suatu blok kode program selama sebuah kondisi terpenuhi. Singkatnya, perulangan while adalah perulangan yang bersifat indefinite alias tidak pasti, atau bahkan tidak terbatasSebuah blok kode akan dilakukan terus-menerus selama suatu kondisi terpenuhi. Jika suatu kondisi ternyata tidak terpenuhi pada iterasi ke 10, maka perulangan akan berhenti. Jika kondisi yang sama pada saat yang berbeda ternyata berhenti pada iterasi ke 100, maka perulangan akan berhenti pada jumlah tersebut.*
 - Penjelasan lainnya ada [disini](https://www.programiz.com/python-programming/while-loop) dan [disini](https://pythonbasics.org/while-loop/)
-**Penulisan Sintaks While**
+# Penulisan Sintaks While
 - Kita bisa memulai dengan cara berikut:
 ```bash
  while <kondisi>:
